@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-> _Coming Soon_ – You can deploy the project using GitHub Pages or any web hosting platform.
+https://shahnawazktk.github.io/SHAHZAM.EDU/
 
 ---
 
@@ -48,6 +48,30 @@ SHAHZAM.EDU/
 └── (Other Bootstrap/jQuery dependencies)
 
 
+## 📷 Screenshots
+
+
+
 📷 Screenshots
 <img width="1366" height="5857" alt="screencapture-file-D-web-development-work-landing-page-index-html-2025-07-21-00_35_54" src="https://github.com/user-attachments/assets/be42b688-5cf9-4023-9ec4-4a7ddf60019e" />
 
+📧 Contact
+Shah Nawaz
+📫 Email: shahnawazktk713@gmail.com
+🌐 Portfolio: https://shahnawazktk.github.io/New-Portfolio/
+📍 Location: Peshawar kpk, Pakistan
+
+
+📄 License
+This project is open-source and available under the MIT License
+
+
+---
+
+### 🔽 Instructions:
+
+1. Replace `Shah Nawaz`, `shahnawazktk713@gmail.com`, and `https://shahnawazktk.github.io/New-Portfolio/` with your actual details.
+2. Add any screenshots (optional).
+3. Save this content in a file named `README.md` and place it in the root of your GitHub repo.
+
+Agar aap chahein to main yeh file bhi bana ke `.md` format mein upload ke liye tayar kar sakta hoon. Bataiye agar chahiye ho.
