@@ -46,3 +46,8 @@ SHAHZAM.EDU/
 │   └── (All image assets)
 ├── README.md
 └── (Other Bootstrap/jQuery dependencies)
+
+
+📷 Screenshots
+<img width="1366" height="5857" alt="screencapture-file-D-web-development-work-landing-page-index-html-2025-07-21-00_35_54" src="https://github.com/user-attachments/assets/be42b688-5cf9-4023-9ec4-4a7ddf60019e" />
+
